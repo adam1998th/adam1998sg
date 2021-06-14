@@ -1,6 +1,14 @@
 ——————–——————————————————
 IP AUTO PORT 443,102,8080 📌🌟💕
-(29-5-2020)  SG,JP, IN, HK,US, NL, CA
+(29-5-2020)  SG,JP, IN, HK, US, NL, CA, CH
+SG =   Singapore
+JP  =  Japanese
+IN  =   India
+HK =   Hong Kong
+US =   United States of American
+NL =   Netherlands
+CA =   Canada
+CH =   Switzerland
 ——————–——————————————————
 🇸🇬🇸🇬🇸🇬 IP AUTO SERVERS SG 🇸🇬🇸🇬🇸🇬
 
